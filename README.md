@@ -1,2 +1,4 @@
 # stockanalysis
 Analysis of stock volumes, ending and starting prices using refactored methods.
+
+Using the basic outline of the program flow allowed for the All Stocks Analysis to be completed using both current data and using arrays to make a more efficient analysis. The logic flow for loops and conditional was similar but it was expanded into using arrays for the volume, starting and ending prices and the corresponding ticker identifier as an index to collect data and store it to provide an output value. The basic outline of the code calls for looping through the tickers and determining the total volume by using the tickerIndex as a means to sift through the data, with the addition of statements for starting and ending prices by comparing to other cells. Finally, a comparison proves that the refactored code is equal in value to the original code - with a streamlined and more efficient code - that is hopefully less time consuming and memory consuming. 
